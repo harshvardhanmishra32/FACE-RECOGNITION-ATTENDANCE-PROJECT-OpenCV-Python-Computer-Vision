@@ -24,4 +24,7 @@
 
 ### Simple UI
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG'>
+
+![image alt](https://github.com/harshvardhanmishra32/FACE-RECOGNITION-ATTENDANCE-PROJECT-OpenCV-Python-Computer-Vision/blob/dadf45af5c7229c9ec3bfe260fdbd90522a29370/Screenshot%202025-09-06%20094856.png)
+
 ## Just follow me and Star⭐ my repository
